@@ -1,0 +1,25 @@
+name: bug_squash_demo
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.4 <4.0.0'
+
+dependencies:
+  flame: ^1.14.0
+  flame_audio: ^2.1.7
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/bug.png
+    - assets/images/squashed_bug.png
+    - assets/audio/squash.mp3
