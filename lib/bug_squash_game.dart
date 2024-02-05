@@ -15,7 +15,7 @@ class BugSquashGame extends FlameGame {
   int _score = 0;
 
   BugSquashGame() {
-    _interval = Timer(1.0, onTick: _createBug, repeat: true);
+    _interval = Timer(0.4, onTick: _createBug, repeat: true);
   }
 
   @override
