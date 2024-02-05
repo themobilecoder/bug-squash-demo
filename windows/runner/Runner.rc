@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "bug_squash_demo" "\0"
+            VALUE "CompanyName", "themobilecoder" "\0"
+            VALUE "FileDescription", "Bug Squash Demo" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "bug_squash_demo" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "bug_squash_demo.exe" "\0"
-            VALUE "ProductName", "bug_squash_demo" "\0"
+            VALUE "InternalName", "Bug Squash Demo" "\0"
+            VALUE "LegalCopyright", "Copyright ©️ 2024 themobilecoder. All rights reserved." "\0"
+            VALUE "OriginalFilename", "bugsquashdemo.exe" "\0"
+            VALUE "ProductName", "Bug Squash Demo" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

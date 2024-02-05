@@ -1,4 +1,4 @@
-package com.example.bug_squash_demo
+package com.themobilecoder.bug_squash_demo
 
 import io.flutter.embedding.android.FlutterActivity
 

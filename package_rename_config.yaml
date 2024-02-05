@@ -1,0 +1,31 @@
+package_rename_config:
+  android:
+    app_name: Bug Squash Demo
+    package_name: com.themobilecoder.bug_squash_demo
+    lang: kotlin
+
+  ios:
+    app_name: Bug Squash Demo
+    bundle_name: bug_squash_demo
+    override_old_package: com.example
+    package_name: com.themobilecoder.bugsquashdemo
+
+  web:
+    app_name: Bug Squash Demo
+    description: Package to change project configurations.
+
+  linux:
+    app_name: Bug Squash Demo
+    package_name: com.themobilecoder.bugsquashdemo
+    exe_name: bugsquash-linux-x64
+
+  windows:
+    app_name: Bug Squash Demo
+    organization: themobilecoder
+    copyright_notice: Copyright ©️ 2024 themobilecoder. All rights reserved.
+    exe_name: bugsquashdemo
+
+  macos:
+    app_name: Bug Squash Demo
+    package_name: com.themobilecoder
+    copyright_notice: Copyright ©️ 2024 themobilecoder. All rights reserved.

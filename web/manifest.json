@@ -1,11 +1,11 @@
 {
-    "name": "bug_squash_demo",
-    "short_name": "bug_squash_demo",
+    "name": "Bug Squash Demo",
+    "short_name": "Bug Squash Demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Package to change project configurations.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
