@@ -1,3 +1,3 @@
-# bug_squash_demo
+# Bug Squash Demo
 
-A new Flutter project.
+A simple game written in Flutter and Flame.
